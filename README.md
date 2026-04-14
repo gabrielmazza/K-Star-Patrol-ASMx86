@@ -22,7 +22,7 @@ O jogo foi adaptado com simplificações para atender aos requisitos e restriç�
   * **Modo Gráfico:** Utilização do modo de vídeo **320x200 (Modo 13H)**.
   * **Implementação Gráfica:** Desenho de pixels, naves e terreno utilizando **endereçamento indireto de memória** (`A000H`) em vez de interrupções de vídeo (`INT 10H`), visando maior eficiência.
   * **Estrutura:** Dividido em 3 **Setores** com terrenos distintos, tempo limite (60 segundos) e pontuação progressiva.
-  * **Funcionalidades:** Menu inicial interativo, movimentação da nave líder, sistema de tiro, geração aleatória de naves alienígenas (com movimento diagonal opcional) e sistema de pontuação com bônus e penalidades.
+  * **Funcionalidades:** Menu inicial interativo, movimentação da nave líder, sistema de tiro, geração aleatória de naves alienígenas e sistema de pontuação com bônus e penalidades.
 
 -----
 
