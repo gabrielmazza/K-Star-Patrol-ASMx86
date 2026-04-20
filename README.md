@@ -1,8 +1,6 @@
 # K-Star-Patrol-ASMx86
 Jogo K-Star Patrol desenvolvido em Assembly x86
 
-Com certeza\! Baseado na descrição do projeto, nos arquivos fornecidos (código Assembly e relatório PDF) e no contexto da disciplina de Engenharia de Computação, aqui está uma sugestão de *README* para o repositório do GitHub.
-
 Este *README* é estruturado para fornecer uma visão geral clara do projeto, sua implementação técnica e como executá-lo, focando na natureza acadêmica do trabalho.
 
 -----
